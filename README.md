@@ -7,4 +7,5 @@ https://dotinstall.com/lessons/basic_threejs_v2
 https://threejs.org/docs/index.html#api/en/lights/SpotLight
 などを参考にした。
 
+ 画面のキャプチャー
 ![キャプチャー](./img/capture.png)
